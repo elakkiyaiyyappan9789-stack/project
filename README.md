@@ -20,5 +20,6 @@ Built using **HTML, CSS, and JavaScript**, it fetches live weather data from the
 🔗https://github.com/elakkiyaiyyappan9789-stack/project 
 
 👩‍💻 Author
+
 ELAKKIYA.I  
 IBM Live Weather Dashboard — 2025
