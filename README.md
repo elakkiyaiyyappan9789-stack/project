@@ -17,8 +17,8 @@ Built using **HTML, CSS, and JavaScript**, it fetches live weather data from the
 - **IDE:** Visual Studio Code  
 
  🌐 Domain
-🔗 https://your-username.github.io/IBM-Live-Weather-Dashboard/
+🔗https://github.com/elakkiyaiyyappan9789-stack/project 
 
-## 👩‍💻 Author
-**[Your Name]**  
+👩‍💻 Author
+ELAKKIYA.I  
 IBM Live Weather Dashboard — 2025
