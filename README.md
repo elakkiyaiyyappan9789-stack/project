@@ -17,7 +17,7 @@ Built using **HTML, CSS, and JavaScript**, it fetches live weather data from the
 - **IDE:** Visual Studio Code  
 
  🌐 Domain
-🔗https://github.com/elakkiyaiyyappan9789-stack/project 
+🔗https://elakkiyaliveweather1.netlify.app/
 
 👩‍💻 Author
 
